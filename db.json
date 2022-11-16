@@ -1,0 +1,95 @@
+{
+    "aluno": [
+      {
+        "id": 1,
+        "nome": "diego",
+        "matricula": "2022001",
+        "idade": 15,
+        "serie": 9
+      },
+      {
+        "id": 2,
+        "nome": "joao",
+        "matricula": "2022002",
+        "idade": 16,
+        "serie": 9
+      },
+      {
+        "id": 3,
+        "nome": "clara",
+        "matricula": "2022003",
+        "idade": 18,
+        "serie": 3
+      },
+      {
+        "id": 4,
+        "nome": "giovanna",
+        "matricula": "2022004",
+        "idade": 13,
+        "serie": 7
+      }
+    ],
+    "turma": [
+      {
+        "id": 1,
+        "turno": "manhã",
+        "sala": 109,
+        "andar": 2,
+        "quantidade de alunos": 20
+      },
+      {
+        "id": 2,
+        "turno": "tarde",
+        "sala": 303,
+        "andar": 3,
+        "quantidade de alunos": 22
+      },
+      {
+        "id": 3,
+        "turno": "noite",
+        "sala": 302,
+        "andar": 3,
+        "quantidade de alunos": 24
+      },
+      {
+        "id": 4,
+        "turno": "tarde",
+        "sala": 205,
+        "andar": 2,
+        "quantidade de alunos": 35
+      }
+    ],
+    "professor": [
+      {
+        "id": 1,
+        "nome": "jose",
+        "disciplina": "matematica",
+        "turma": 2002,
+        "registro": 718
+      },
+      {
+        "id": 2,
+        "nome": "marcio",
+        "disciplina": "historia",
+        "turma": 2004,
+        "registro": 103
+      },
+      {
+        "id": 3,
+        "nome": "maria",
+        "disciplina": "portugues",
+        "turma": 1001,
+        "registro": 300
+      },
+      {
+        "id": 4,
+        "nome": "daniel",
+        "disciplina": "educacao fisica",
+        "turma": 3001,
+        "registro": 171
+      },
+      {
+        "id": 5
+      }
+    ]
+  }
